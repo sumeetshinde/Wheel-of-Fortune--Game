@@ -1,0 +1,32 @@
+{
+  "CEO and Company": [
+    	"Sundar Pichai - Alphabet",
+   	 "Tim Cook - Apple",
+    	"Warren Buffet - Berkshire Hathaway",
+	"Elon Musk - Tesla",
+	"Mark Zuckerberg - Facebook",
+	"Jeff Bezos - Amazon",
+	"Doug McMillon - Walmart"
+  ],
+  "Company and Headquarter Location": [
+    "Walmart - Bentonville, Arkansas",
+    "Apple - Cupertino, California",
+    "Chevron - San Ramon, California",
+    "Microsoft - Redmond, Washington",
+    "Wells Fargo - San Francisco, California",
+    "IBM - Armonk, New York",
+    "Facebook - Menlo Park, California",
+    "Micron Technology - Boise, Idaho",
+   ],
+  "Top 10 Fortune 500 companies in US": [
+	"Walmart",
+	"Amazon",
+	"Apple",
+	"Berkshire Hathaway",
+	"Exxon Mobil",
+	"CVS Health",
+	"UnitedHealth Group",
+	"McKesson",
+	"A T & T",	
+	"AmerisourceBergen"]
+}
